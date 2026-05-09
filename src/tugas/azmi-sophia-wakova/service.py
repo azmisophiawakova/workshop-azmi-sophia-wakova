@@ -6,7 +6,7 @@ def hitung_luas_persegi_panjang(panjang, lebar):
     luas = panjang * lebar
     return luas
 
-# Contoh penggunaan fungsi (opsional):
+# Contoh penggunaan fungsi (opsional) yaitu:
 if __name__ == "__main__":
     p = 10
     l = 5
